@@ -54,6 +54,8 @@ Histogram of how many pizzas customers usually order.
 
 Final summary of key business insights.
 
+
+
 📈 Example Insights
 
 📅 Weekends drive the highest sales volume.
@@ -64,6 +66,8 @@ Final summary of key business insights.
 
 📊 Seasonal and monthly variations can help plan inventory and marketing.
 
+
+
 ✨ Future Improvements
 
 Add an interactive dashboard using Streamlit or Plotly Dash.
@@ -73,6 +77,7 @@ Deploy analysis as a web app for non-technical users.
 Perform deeper customer segmentation to identify buyer groups.
 
 Predict future sales with machine learning models.
+
 
 
 🛠️ Tech Stack
